@@ -6,7 +6,7 @@ The app is also integrated with text-to-speech and speech-to-text conversion whi
 
 <br>
 
-<img width="300" src="IMG_3592.PNG"> <img width="300" src="IMG_3616.PNG"> <img width="300" src="FinalVideo_1678044158.410335.gif">
+<img width="230" src="IMG_3592.PNG"> <img width="230" src="IMG_3616.PNG"> <img width="230" src="FinalVideo_1678044158.410335.gif">
 
 </br>
 
